@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AA52-DA67
+
+ Directory of C:\Users\Farid\Desktop\gitdata
+
+02/23/2021  12:32 PM    <DIR>          .
+02/23/2021  12:32 PM    <DIR>          ..
+02/23/2021  12:13 PM                 0 dir
+02/23/2021  12:13 PM                51 mygitfile.txt
+02/23/2021  12:32 PM                 0 test1.txt
+02/23/2021  12:30 PM               117 touch
+               4 File(s)            168 bytes
+               2 Dir(s)  416,556,449,792 bytes free
